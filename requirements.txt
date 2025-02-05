@@ -1,0 +1,2 @@
+ultralytics==8.0.48
+pyside6==6.4.2
