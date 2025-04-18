@@ -2,7 +2,7 @@
 本项目的主要目标是进行液体中气泡的检测，项目所应用的检测模型是使用包含约一万张水体气泡图像的数据集对YOLOv8n进行训练得到的。
 
 本项目的GUI可选择图片或视频文件作为输入，并集成了多项检测结果的显示，包括气泡二维面积占比、气泡数量等，下图为示例：
-![demo](http://le.0x7e.tech/wp-content/uploads/2025/02/GUI.png)
+![demo](https://le.0x7e.tech/wp-content/uploads/2025/02/GUI.png)
 ## 如何运行
 
  - 请先在Python>=3.8的环境中安装项目相关依赖包：
